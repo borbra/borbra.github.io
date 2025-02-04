@@ -8,7 +8,7 @@
 }
 
 .xbox.white {
-  background: url(base-white_2.png);
+  background: url(Final/base-white_2.png);
 }
 
 .xbox .triggers {
@@ -21,7 +21,7 @@
 .xbox .trigger {
   width: 88px;
   height: 121px;
-  background: url(trigger_green.png);
+  background: url(Final/trigger_green.png);
   opacity: 0;
 }
 
